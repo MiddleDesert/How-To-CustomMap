@@ -8,7 +8,7 @@ Sending Custom Map: https://github.com/MiddleDesert/How-To-CustomMap/blob/main/R
 # Part 1. Making Custom Map
 
 (If You Don't Already Know How To Use Blender Go Do That First!)
-Make A Map Of Whatever Kind (Preferrably A Forest Or Only Up) In Blender And Make Sure It Is Relatively Same Sized As This https://github.com/MiddleDesert/How-To-CustomMap/blob/main/examplemap.obj 
+Make A Map Of Whatever Kind (Preferrably A Forest Or Only Up) In Blender And Make Sure It Has A Relative Scale Of (10,10,10)
 Then For The Materials You Don't Want To Add Textures Just Rename Them To One Of These Names Based On What Kind Of Material You Want https://github.com/MiddleDesert/How-To-CustomMap/blob/main/README.md#materials-names 
 After Export The Model As A OBJ And Name It EXACTLY just map.obj
 Make Sure It Is Exported To Downloads To Make It Easier To Find!
