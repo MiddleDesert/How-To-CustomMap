@@ -23,7 +23,9 @@ If Your Map Isn't Innapropiate And Is Sized Good Then It Will Eventually Be Put 
 
 # Materials Names
 grass = Grass Material
+
 rock = Rock Or Stone Like Material
+
 wood = Wood Material
 
 More Coming Soon!
