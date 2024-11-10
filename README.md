@@ -5,6 +5,9 @@ Making Custom Map: https://github.com/MiddleDesert/How-To-CustomMap/blob/main/RE
 
 Sending Custom Map: https://github.com/MiddleDesert/How-To-CustomMap/blob/main/README.md#part-2-sending-custom-map-for-review-and-verification
 
+Updating Your Map
+https://github.com/MiddleDesert/How-To-CustomMap/blob/main/README.md#part-3-updating-your-map
+
 # Part 1. Making Custom Map
 
 (If You Don't Already Know How To Use Blender Go Do That First!)
