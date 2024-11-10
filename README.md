@@ -8,15 +8,18 @@ Sending Custom Map: https://github.com/MiddleDesert/How-To-CustomMap/blob/main/R
 # Part 1. Making Custom Map
 
 (If You Don't Already Know How To Use Blender Go Do That First!)
-Make A Map Of Whatever Kind (Preferrably A Forest Or Only Up) In Blender Then For The Materials You Don't Want To Add Textures Just Rename Them To One Of These Names Based On What Kind Of Material You Want https://github.com/MiddleDesert/How-To-CustomMap/blob/main/README.md#materials-names 
+Make A Map Of Whatever Kind (Preferrably A Forest Or Only Up) In Blender And Make Sure It Is Relatively Same Sized As This https://github.com/MiddleDesert/How-To-CustomMap/blob/main/examplemap.obj 
+Then For The Materials You Don't Want To Add Textures Just Rename Them To One Of These Names Based On What Kind Of Material You Want https://github.com/MiddleDesert/How-To-CustomMap/blob/main/README.md#materials-names 
 After Export The Model As A OBJ And Name It EXACTLY just map.obj
 Make Sure It Is Exported To Downloads To Make It Easier To Find!
 
 # Part 2. Sending Custom Map For Review And Verification 
 
 After Exporting
-Make A Repository On Github Called Whatever Name You Want Your Map To Be Called
-Import Your map.obj and map.mlt to your 
+Make A Repository On Github Called Whatever Name You Want Your Map To Be Called.
+Import Your map.obj and map.mlt to your Github Repository.
+After Post The Link To The Repository(Make Sure Its A Public Repository) In This Discord Server's Channel Called Post-Your-Map-Repos https://discord.gg/wHCW2Aa6fe 
+If Your Map Isn't Innapropiate And Is Sized Good Then It Will Eventually Be Put On The Custom Map List Ingame!
 
 # Materials Names
 grass = Grass Material
