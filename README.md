@@ -43,3 +43,7 @@ rock = Rock Or Stone Like Material
 wood = Wood Material
 
 More Coming Soon!
+
+# Script Adding Material Names
+teleport_back = teleports back to custom map selection menu plane
+
